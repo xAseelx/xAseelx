@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/so97w" target="blank"><img src="https://img.shields.io/twitter/follow/so97w?logo=twitter&style=for-the-badge" alt="so97w" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Programming at Aja Space company, McKinsey’s Forward program Intern ,**
-.
-- 💬 Ask me about **Hackathons & contests , UX/UI designs, Front-End Development**
+- 🌱 I’m currently learning **Full Stack Programming at Aja Space company, Leadership & managing skills at McKinsey’s Forward program**
 
-- I'm passionate about learning the following fields: **Data Analysis, Data Science, Apps Development, Web Development,UX/UI Design**
-- 
+- 💬 Ask me about **Hackathons & contests, UX/UI designs, Front-End Development**
+
+- I'm passionate about learning the following fields: **Data Analysis, Data Science, Apps Development, Web Development, UX/UI Design**
+  
 - 📫 How to reach me **aseelalotaebey@gmail.com**
 
 - 📄 Know about my experiences [http://linkedin.com/in/aseel-alkhdaidi-bb715128b](http://linkedin.com/in/aseel-alkhdaidi-bb715128b)
