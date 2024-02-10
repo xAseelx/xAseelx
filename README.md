@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **Hackathons & contests, UX/UI designs, Front-End Development**
 
-- I'm passionate about learning the following fields: **Data Analysis, Data Science, Apps Development, Web Development, UX/UI Design,Databases and SQL**
+- I'm passionate about learning the following fields: **Data Analysis, Data Science, Web Development,Databases and Artificial Intelligence**
   
 - 📫 How to reach me **aseelalotaebey@gmail.com**
 
-- 📄 Know about my experiences [http://linkedin.com/in/aseel-alkhdaidi-bb715128b](http://linkedin.com/in/aseel-alkhdaidi-bb715128b)
+- 📄 Know about my experiences [http://linkedin.com/in/aseel-alkhdaidi-bb715128b](http://linkedin.com/in/aseel-alkhdaidi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
