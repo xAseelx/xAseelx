@@ -11,7 +11,7 @@
   
 - 📫 How to reach me **aseelalotaebey@gmail.com**
 
-- 📄 Know about my experiences [http://linkedin.com/in/aseel-alkhdaidi-bb715128b](http://linkedin.com/in/aseel-alkhdaidi)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aseel-alkhdaidi](http://linkedin.com/in/aseel-alkhdaidi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
