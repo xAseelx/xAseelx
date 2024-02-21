@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aseel</h1>
-<h3 align="center">IT Student, UX/UI Designer</h3>
+<h3 align="center">IT Student</h3>
 
 <p align="left"> <a href="https://twitter.com/so97w" target="blank"><img src="https://img.shields.io/twitter/follow/so97w?logo=twitter&style=for-the-badge" alt="so97w" /></a> </p>
 
