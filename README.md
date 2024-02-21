@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Hackathons & contests, UX/UI designs, Front-End Development**
 
-- I'm passionate about learning the following fields: **Data Analysis, Data Science, Web Development,Databases and Artificial Intelligence**
+- I'm passionate about learning the following fields: **Data Science, Web Development and SoftWare Engineering,Artificial Intelligence**
   
 - 📫 How to reach me **aseelalotaebey@gmail.com**
 
