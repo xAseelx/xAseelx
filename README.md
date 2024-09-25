@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/so97w" target="blank"><img src="https://img.shields.io/twitter/follow/so97w?logo=twitter&style=for-the-badge" alt="so97w" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Programming at Aja Space company, Leadership & managing skills at McKinsey’s Forward program**
+- 🌱 I’m currently learning **Full Stack Programming**
 
-- 💬 Ask me about **Hackathons & contests, UX/UI designs, Front-End Development**
+- 💬 Ask me about **UX/UI designs, Full-Stack Development, Data Analytics and Data Science**
 
-- I'm passionate about learning the following fields: **Data Science, Web Development and SoftWare Engineering,Artificial Intelligence**
+- I'm passionate about learning the following fields: **Data Science, Web Development and Software Engineering**
   
 - 📫 How to reach me **AseelAlKhdaidi@gmail.com**
 
