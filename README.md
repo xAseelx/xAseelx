@@ -2,11 +2,12 @@
 
 
 <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Roboto+Slab&weight=500&size=35&duration=4000&color=B3BAFF&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I%27m+Aseel+!;" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Islam!;" />
 </h1>
 
 
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate Data Scintest from Saudi Arabia</h3>
 
 <br/>
 
