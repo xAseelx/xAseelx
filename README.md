@@ -1,21 +1,79 @@
-<h1 align="center">Hi 👋, I'm Aseel</h1>
-<h3 align="center">IT Student</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Islam-AI.Ahmed-Islam-AI" />
 
-<p align="left"> <a href="https://twitter.com/so97w" target="blank"><img src="https://img.shields.io/twitter/follow/so97w?logo=twitter&style=for-the-badge" alt="so97w" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Programming**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Islam!;" />
+</h1>
 
-- 💬 Ask me about **UX/UI designs, Full-Stack Development, Data Analytics and Data Science**
 
-- I'm passionate about learning the following fields: **Data Science, Web Development and Software Engineering**
+<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **AI & Ml solution for Climate Change**
+ 
+ 🌱 I’m currently learning **Deep Learning, Computer Vision, NLP**
+
+💬 Ask me about **Machine Learning, Data Science, LinkedIn growth, Personal Branding, and much more**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ahmideveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-islam01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Ahmed-Islam-AI" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://www.kaggle.com/ahmedislam0" target="_blank">
+     <img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" /> 
+  </a>
   
-- 📫 How to reach me **AseelAlKhdaidi@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/so97w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="so97w" height="30" width="40" /></a>
-<a href="http://linkedin.com/in/aseel-alkhadaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/aseel-alkhadaidi" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,vscode,github,git" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=cpp,anaconda,python,opencv,scikitlearn,tensorflow,mysql,flask,gcp" />
+</div>
+
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ahmed-Islam-AI/Ahmed-Islam-AI/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Ahmed-Islam-AI&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ahmed-Islam-AI&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Islam-AI&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+<br/>
+<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+✌️;+Shoot+Me+Message+On+LinkedIn!;+I'm+Always+Down+To+Collab+:)" />
+</h1>
