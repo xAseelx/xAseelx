@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AI & Ml solution for Climate Change**
+ 🔭 I’m currently working on **Data Science Projects**
  
- 🌱 I’m currently learning **Data Science, Machine Learning**
+ 🌱 I’m currently developing myself in **Data Science, Machine Learning**
  
  </div>
  
